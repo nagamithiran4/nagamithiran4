@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Nagamithiran Ramis 👋
 
-<!--
-**nagamithiran4/nagamithiran4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor of Computer Science (Computer Networks and Security) Student at UTM**  
+💻 Passionate about C++, Java, Data Structures, and Cybersecurity  
+🌱 Currently building foundational projects in programming and logic design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages:** C++, Java, Python, HTML/CSS
+- **Tools & Environments:** VS Code, Git, Linux (Ubuntu/Debian)
+- **Current Focus:** Data Structures, Object-Oriented Programming, Discrete Math & Network Security
+
+---
+
+### 📌 Featured Repositories
+- [Coursework-CPP](#) - Core algorithms and C++ exercise implementations
+- [Logic-Gate-Simulations](#) - Digital logic gate exercises and circuit design logic
+
+---
+
+📬 **Connect with me:** www.linkedin.com/in/naga1202 | nagamithiranr@gmail.com
